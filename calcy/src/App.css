@@ -1,0 +1,80 @@
+.App{
+  margin-left: 5%;
+  margin-top: 4%;
+}
+
+input,.result {
+  border: 2px solid rgb(121, 168, 127);
+  border-radius: 22px;
+  width: 380px;
+  height: 40px;
+}
+
+.clear{
+  background-color: rgb(225, 80, 109);
+  color: white;
+  border: 2px solid white;
+}
+
+.equal{
+  background-color: rgb(101, 116, 101);
+  color: white;
+  border: 2px solid white;
+}
+
+.symbols{
+  background-color: rgb(139, 139, 232);
+  color: white;
+}
+
+.result {
+  font-weight: bold;
+  font-size: x-large;
+}
+
+input{
+  border: 2px solid rgb(118, 118, 191);
+  font-size: xx-large;
+  font-weight: bolder;
+  padding-left: 9px;
+  margin-bottom: 2px;
+}
+
+.calcy {
+  border:2px solid rgb(194, 148, 87);
+  text-align: center;
+  padding: 9px;
+  width: 400px;
+  border-radius: 22px;
+  background-color: rgb(198, 208, 209);
+}
+
+button {
+  width: 49px;
+  height: 49px;
+  margin: 5px;
+  padding: 4px;
+  font-size: xx-large;
+  border-radius: 5px;
+  background-color: rgb(188, 150, 123);
+}
+
+h2{
+  color: rgb(138, 40, 60);
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+}
+
+.care{
+  color: rgb(227, 118, 118);
+}
+
+.cagr{
+  color: rgb(71, 117, 71);
+}
+
+.decor{
+  text-decoration: dotted;
+  color: whitesmoke;
+}
